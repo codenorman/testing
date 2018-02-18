@@ -1,27 +1,32 @@
-# TestDemo2
+# TestDemo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
+This has examples of writing tests in angular.
 
-## Development server
+## 01-fundementals
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+A simple introduction to the jasmine test functions
 
-## Code scaffolding
+## 02-flexible-tests-adapt
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+An example showing tests that are forgiving to code changes. 
 
-## Build
+## 03-setup-and-teardown
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+Shows use of setup.
 
-## Running unit tests
+## 04-forms
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Shows how to test Formbuilder
 
-## Running end-to-end tests
+## 05-event-emitters 
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Example showing how to test event-emmitters
 
-## Further help
+## 06-services
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Example testing a service using spyOn to mock the service.
+
+## 07-timezone
+
+Development In Progress
+
